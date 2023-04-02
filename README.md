@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio and my Discord bot.
-- 🌱 I’m currently learning C++ and web design.
+- 🔭 I’m currently working on my portfolio and a senior project of a browser extension.
+- 🌱 I’m currently learning about networks and web/mobile applications.
 - 👯 I’m looking to collaborate on game design and software development.
 - 🤔 I’m looking for help with understanding Git and designing my portfolio.
 - 📫 How to reach me: **Email - kevinnhoangn@gmail.com**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: **Fruit Teas > Coffee**
+- ⚡ Fun fact: **Fruit Teas > Coffee** & Escape Room Enthusiast
