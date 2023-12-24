@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio and a senior project of a browser extension.
+- 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning about networks and web/mobile applications.
 - 👯 I’m looking to collaborate on game design and software development.
 - 🤔 I’m looking for help with understanding Git and designing my portfolio.
