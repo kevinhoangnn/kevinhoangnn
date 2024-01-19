@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with understanding Git and designing my portfolio.
 - 📫 How to reach me: **Email - kevinnhoangn@gmail.com**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: **Fruit Teas > Coffee** & Escape Room Enthusiast
